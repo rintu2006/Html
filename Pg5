@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Blog</title>
+
+<style>
+body {
+    font-family: Arial;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: gray;
+    padding: 10px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>My Blog</h1>
+</header>
+
+<nav>
+    <a href="#">Home</a> |
+    <a href="#">Posts</a> |
+    <a href="#">Contact</a>
+</nav>
+
+<section>
+    <h2>Blog Post Title</h2>
+    <p>This is a sample blog post.</p>
+</section>
+
+<footer>
+    <p>© 2026 My Blog</p>
+</footer>
+
+</body>
+</html>
