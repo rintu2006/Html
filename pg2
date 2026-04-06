@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>College</title>
+</head>
+
+<body>
+<h1>Amal Jyothi  College</h1>
+
+<h2>Courses Offered</h2>
+<ul>
+    <li>BtechComputer Science</li>
+    <li>MCA</li>
+    <li>Mechanical Engineering</li>
+</ul>
+
+<h2>Facilities</h2>
+<ul>
+    <li>Library</li>
+    <li>Laboratory</li>
+    <li>Sports</li>
+</ul>
+
+<h2>More Info</h2>
+<a href="https://www.example.com">Visit College Website</a>
+
+</body>
+</html>
