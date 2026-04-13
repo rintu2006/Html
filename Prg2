@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Profile</title>
+</head>
+
+<body>
+<h1>Student Profile</h1>
+
+<img src="student.jpg" width="150" height="150">
+
+<h2>Name:</h2>
+<p>Rintu Saji</p>
+
+<h2>Course:</h2>
+<p>Bachelor of Computer Science</p>
+
+<h2>Skills:</h2>
+<ul>
+    <li>C Programming</li>
+    <li>HTML & CSS</li>
+    <li>JavaScript</li>
+</ul>
+
+<h2>Contact:</h2>
+<p>Email: <a href="mailto:rintu@gmail.com">rintu@gmail.com</a></p>
+<p>Phone: <a href="tel:1234567890">1234567890</a></p>
+
+</body>
+</html>
