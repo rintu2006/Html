@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>4 Section Layout</title>
+<style>
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 50vh 50vh;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+}
+
+.box1 { background-color: red; }
+.box2 { background-color: blue; }
+.box3 { background-color: green; }
+.box4 { background-color: orange; }
+</style>
+</head>
+
+<body>
+<div class="container">
+    <div class="box box1">Section 1</div>
+    <div class="box box2">Section 2</div>
+    <div class="box box3">Section 3</div>
+    <div class="box box4">Section 4</div>
+</div>
+</body>
+</html>
